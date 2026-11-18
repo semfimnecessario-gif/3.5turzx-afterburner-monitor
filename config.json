@@ -1,0 +1,19 @@
+{
+  "com_port": "COM3",
+  "orientation": "landscape",
+  "refresh_rate": 1.0,
+  "theme": {
+    "bg_color": "#0D0D0D",
+    "accent_color": "#39FF14",
+    "text_color": "#FFFFFF",
+    "muted_color": "#888888"
+  },
+  "sensors": [
+    { "source": "GPU temperature", "label": "GPU TEMP", "unit": "°C" },
+    { "source": "GPU usage", "label": "GPU LOAD", "unit": "%" },
+    { "source": "CPU temperature", "label": "CPU TEMP", "unit": "°C" },
+    { "source": "CPU usage", "label": "CPU LOAD", "unit": "%" },
+    { "source": "RAM usage", "label": "RAM", "unit": "MB" },
+    { "source": "Framerate", "label": "FPS", "unit": "" }
+  ]
+}
