@@ -1,5 +1,5 @@
 {
-  "com_port": "COM3",
+  "com_port": "COM20",
   "orientation": "landscape",
   "refresh_rate": 1.0,
   "theme": {
